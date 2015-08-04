@@ -1,0 +1,19 @@
+.clear{
+	clear:both;
+}
+.lumia_product_slider,
+.thumbnails {
+	width:100%;
+	position:relative;
+}
+.thumbnails a img {
+	float: left;
+}
+.spinner {
+	width:100%;
+	height:100%;
+	position:absolute;
+	background: #fff url( ../images/spinner.gif ) no-repeat center center;
+	display:none;
+	opacity: 0.8;
+}
